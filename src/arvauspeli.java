@@ -56,3 +56,5 @@ public class arvauspeli {
         lukija.close();
     }
 }
+
+//koodia voisi vielä kehittää siten, että arvattava sana ei ole valmiina. 25.9.2023

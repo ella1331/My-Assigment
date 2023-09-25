@@ -13,7 +13,7 @@ public class arvauspeli {
 
         Scanner lukija = new Scanner(System.in);
 
-        System.out.println("Tervetuloa arvauspeliin! Voit lopettaa pelin sanalla: lopeta");
+        System.out.println("Tervetuloa arvauspeliin! Voit lopettaa pelin sanalla: lopeta.");
         System.out.println("Yritä arvata sana. Saat vihjeitä väärien vastausten jälkeen.");
 
         while (!arvattuOikein) {
